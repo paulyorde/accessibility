@@ -1,0 +1,2 @@
+default: --no-source --color --format pretty
+accessible_firefox: --tags @accessible_firefox --format pretty

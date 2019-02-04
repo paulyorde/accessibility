@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'capybara'
+gem 'capybara-accessible'
+gem 'cucumber'
+gem 'data_magic'
+gem 'debase'
+gem 'page-object', '~> 2.0'
+gem 'poltergeist'
+gem 'rake'
+gem 'rspec'
+gem 'ruby-debug-ide'
+gem 'selenium-webdriver'
